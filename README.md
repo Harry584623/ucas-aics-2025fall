@@ -1,2 +1,2 @@
 # ucas-aics-2025fall
-ucas-aics-2025fall
+中国科学院大学 智能计算系统 2025年秋季
